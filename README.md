@@ -14,7 +14,6 @@ Currently focused on:
 - **SDG Navigator AI** — Agentic RAG system for analyzing projects against the UN SDGs
 - **Pharma Market Intelligence Agent** — AI-powered market research workflow
 - **Plaksha Wayfinder** — Smart navigation platform
-- **NSE Market Analysis** — Data-driven financial market analysis
 
 ### Stack
 
