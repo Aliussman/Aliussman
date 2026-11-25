@@ -1,0 +1,3 @@
+assets/*.svg -diff
+data/cache.json -diff
+data/version.json -diff

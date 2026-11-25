@@ -1,0 +1,183 @@
+# Hand-declared facts. Everything else on the profile is pulled live from the
+# GitHub API at build time. Keep claims here to things that are measured or
+# externally verifiable.
+
+[identity]
+name      = "ALI USMAN"
+handle    = "Aliussman"
+role      = "CS & AI @ Plaksha  ·  Agentic AI, RAG & Robotics MCP"
+thesis    = "I build autonomous agentic workflows and debug distributed, real-time systems where failure is silent and correctness matters."
+location  = "India"
+email     = "aliusmanmuhammad186@gmail.com"
+linkedin  = "https://www.linkedin.com/in/ali-usman-muhammad/"
+
+# ---------------------------------------------------------------------------
+# Telemetry tiles, rendered in this order, two per row.
+#   status : live | shipped | done
+#   repo   : owner/name for commit-activity telemetry ("" = no public repo)
+# ---------------------------------------------------------------------------
+
+[[project]]
+key     = "pulsenote"
+title   = "pulsenote"
+repo    = "Aliussman/pulsenote"
+href    = "https://github.com/Aliussman/pulsenote"
+status  = "live"
+value   = "SOAP"
+unit    = "eval"
+caption = "citation-grounded clinical SOAP note generator with evaluation harness"
+stack   = "Python · LangGraph · RAG · FastEval · LLMs"
+note    = "grounded clinical notes evaluated for hallucination and attribution"
+
+[[project]]
+key     = "ros-mcp"
+title   = "ros-mcp-server"
+repo    = "Aliussman/ros-mcp-server"
+href    = "https://github.com/robotmcp/ros-mcp-server"
+status  = "live"
+value   = "ROS 2"
+unit    = "MCP"
+caption = "background topic subscriptions, async buffering & ROS 2 crash fixes"
+stack   = "Python · Model Context Protocol · ROS 1/2 · WebSockets"
+note    = "asynchronous streaming & correlation fixes for live robot control"
+
+[[project]]
+key     = "pharma"
+title   = "pharma-market-intelligence"
+repo    = "Aliussman/pharma-market-intelligence-agent"
+href    = "https://github.com/Aliussman/pharma-market-intelligence-agent"
+status  = "done"
+value   = "SEC"
+unit    = "RAG"
+caption = "autonomous agent workflow analyzing pharma earnings & 10-K filings"
+stack   = "FastAPI · Next.js · Groq · Tavily · LangChain"
+note    = "structured financial entity extraction and autonomous web research"
+
+[[project]]
+key     = "accessgrid"
+title   = "accessgrid-ai"
+repo    = "Aliussman/accessgrid-ai"
+href    = "https://github.com/Aliussman/accessgrid-ai"
+status  = "done"
+value   = "TWIN"
+unit    = "GIS"
+caption = "scenario-based urban accessibility digital twin for hospital-access loss"
+stack   = "Python · OSMnx · NetworkX · GeoPandas · Folium"
+note    = "simulates road closures & restores emergency healthcare routing"
+
+[[project]]
+key     = "wayfinder"
+title   = "plaksha-wayfinder"
+repo    = "Aliussman/plaksha-wayfinder"
+href    = "https://plaksha-wayfinder.vercel.app/"
+status  = "shipped"
+value   = "LIVE"
+unit    = "campus"
+caption = "QR-based campus indoor navigation platform live on Vercel"
+stack   = "TypeScript · React · Next.js · TailwindCSS"
+note    = "real-time pathfinding for Plaksha University campus"
+
+# ---------------------------------------------------------------------------
+# Upstream organisations I send patches to. Everything about the contributions
+# themselves — counts, titles, what merged — is pulled live from the GitHub
+# API at build time; only the company context is declared here.
+#   badge : short funding or status marker, shown next to the name
+# ---------------------------------------------------------------------------
+
+[[org]]
+owner = "fireform-core"
+name  = "FireForm"
+badge = "health & fire"
+what  = "medical incident reporting & AI form filling"
+
+[[org]]
+owner = "robotmcp"
+name  = "RobotMCP"
+badge = "robotics MCP"
+what  = "connecting LLMs with ROS 1/2 robots via MCP"
+
+[[org]]
+owner = "omegaup"
+name  = "omegaUp"
+badge = "education"
+what  = "competitive programming & learning platform"
+
+[[org]]
+owner = "aiondemand"
+name  = "AI on Demand"
+badge = "AI platform"
+what  = "sharing and executing AI workflows"
+
+[[org]]
+owner = "sktime"
+name  = "sktime"
+badge = "ML framework"
+what  = "time series machine learning toolkit"
+
+# ---------------------------------------------------------------------------
+
+[[secondary]]
+title = "mission-flawless-aqi-bot"
+href  = "https://github.com/Aliussman/mission-flawless-aqi-bot"
+blurb = "autonomous air quality index tracker and alert bot"
+
+[[secondary]]
+title = "sdg-navigator-ai"
+href  = "https://github.com/Aliussman"
+blurb = "agentic RAG system for analyzing sustainability projects against UN SDGs"
+
+# ---------------------------------------------------------------------------
+# Capability bars. `weight` is a self-assessed 0-100 depth, shown alongside the
+# real byte share the GitHub API reports.
+# ---------------------------------------------------------------------------
+
+[[capability]]
+label = "Agentic AI & RAG"
+weight = 88
+langs = ["Python"]
+detail = "LangGraph workflows, RAG evaluation pipelines, structured LLM extraction"
+
+[[capability]]
+label = "Robotics & MCP"
+weight = 80
+langs = ["C++", "C", "CMake"]
+detail = "Model Context Protocol, ROS 1/2 services, asynchronous WebSocket streaming"
+
+[[capability]]
+label = "Backend & Distributed"
+weight = 82
+langs = ["Shell", "Dockerfile", "Makefile"]
+detail = "async task workers (Celery/Redis), periodic reporting engines, i18n APIs"
+
+[[capability]]
+label = "Frontend & Product"
+weight = 75
+langs = ["TypeScript", "JavaScript"]
+detail = "React, Next.js, Electron desktop applications, Zustand state management"
+
+# ---------------------------------------------------------------------------
+
+[[ledger]]
+year = "2026"
+what = "FireForm Multilingual & Reporting Pipelines"
+detail = "core contributions to form filler & reporting engines"
+
+[[ledger]]
+year = "2026"
+what = "RobotMCP ROS 2 Streaming & Fault Tolerance"
+detail = "background topic subscriptions & concurrency fixes"
+
+[[ledger]]
+year = "2026"
+what = "AccessGrid AI"
+detail = "urban accessibility digital twin for healthcare resilience"
+
+[[ledger]]
+year = "2025"
+what = "Plaksha Wayfinder"
+detail = "campus QR navigation platform live deployment"
+
+[[ledger]]
+year = "2024"
+what = "Plaksha University"
+detail = "B.Tech in Computer Science & Artificial Intelligence"

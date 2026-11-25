@@ -1,0 +1,278 @@
+{
+ "languages": {
+  "C": 2719,
+  "JavaScript": 110662,
+  "Procfile": 61,
+  "Python": 511808,
+  "TypeScript": 332581
+ },
+ "last": {
+  "at": "2026-11-23T22:16:15Z",
+  "message": "",
+  "repo": "Aliussman/pulsenote"
+ },
+ "prs": [
+  {
+   "created": "2026-11-25",
+   "merged": "",
+   "number": 73,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-frontend",
+   "state": "open",
+   "title": "feat(i18n): support multiple languages (English and Spanish) across UI",
+   "url": "https://github.com/fireform-core/fireform-frontend/pull/73"
+  },
+  {
+   "created": "2026-11-25",
+   "merged": "",
+   "number": 773,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "open",
+   "title": "feat(i18n): support multiple languages (English and Spanish) in form filler",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/773"
+  },
+  {
+   "created": "2026-11-20",
+   "merged": "",
+   "number": 407,
+   "org": "robotmcp",
+   "repo": "robotmcp/ros-mcp-server",
+   "state": "open",
+   "title": "fix(compatibility): verify services for parameters and actions across ROS versions (#196)",
+   "url": "https://github.com/robotmcp/ros-mcp-server/pull/407"
+  },
+  {
+   "created": "2026-11-06",
+   "merged": "",
+   "number": 404,
+   "org": "robotmcp",
+   "repo": "robotmcp/ros-mcp-server",
+   "state": "open",
+   "title": "fix: prevent rosapi_node crash on ROS 2 in get_node_details (#273)",
+   "url": "https://github.com/robotmcp/ros-mcp-server/pull/404"
+  },
+  {
+   "created": "2026-11-01",
+   "merged": "2026-11-07",
+   "number": 60,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-frontend",
+   "state": "merged",
+   "title": "feat: add periodic report generation interface",
+   "url": "https://github.com/fireform-core/fireform-frontend/pull/60"
+  },
+  {
+   "created": "2026-10-24",
+   "merged": "2026-11-07",
+   "number": 737,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "merged",
+   "title": "feat: implement periodic report generation API (#557)",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/737"
+  },
+  {
+   "created": "2026-10-20",
+   "merged": "2026-11-18",
+   "number": 402,
+   "org": "robotmcp",
+   "repo": "robotmcp/ros-mcp-server",
+   "state": "merged",
+   "title": "feat: add background ROS topic subscriptions",
+   "url": "https://github.com/robotmcp/ros-mcp-server/pull/402"
+  },
+  {
+   "created": "2026-10-17",
+   "merged": "",
+   "number": 399,
+   "org": "robotmcp",
+   "repo": "robotmcp/ros-mcp-server",
+   "state": "open",
+   "title": "Fix concurrent action result correlation",
+   "url": "https://github.com/robotmcp/ros-mcp-server/pull/399"
+  },
+  {
+   "created": "2026-10-15",
+   "merged": "2026-11-18",
+   "number": 398,
+   "org": "robotmcp",
+   "repo": "robotmcp/ros-mcp-server",
+   "state": "merged",
+   "title": "Fix/use millisecond ping timeout on macOS",
+   "url": "https://github.com/robotmcp/ros-mcp-server/pull/398"
+  },
+  {
+   "created": "2026-10-15",
+   "merged": "2026-10-17",
+   "number": 724,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "merged",
+   "title": "Remove unnecessary Ruff noqa suppressions",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/724"
+  },
+  {
+   "created": "2026-10-11",
+   "merged": "",
+   "number": 266,
+   "org": "aiondemand",
+   "repo": "aiondemand/aiondemand",
+   "state": "open",
+   "title": "test: execute tagged notebook examples in CI",
+   "url": "https://github.com/aiondemand/aiondemand/pull/266"
+  },
+  {
+   "created": "2026-10-11",
+   "merged": "",
+   "number": 11441,
+   "org": "sktime",
+   "repo": "sktime/sktime",
+   "state": "open",
+   "title": "DOC link Windows PyCharm setup guide",
+   "url": "https://github.com/sktime/sktime/pull/11441"
+  },
+  {
+   "created": "2026-10-07",
+   "merged": "2026-10-14",
+   "number": 44,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-frontend",
+   "state": "merged",
+   "title": "feat: add template descriptions",
+   "url": "https://github.com/fireform-core/fireform-frontend/pull/44"
+  },
+  {
+   "created": "2026-10-03",
+   "merged": "2026-10-03",
+   "number": 708,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "merged",
+   "title": "docs: align contributor setup with development workflow",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/708"
+  },
+  {
+   "created": "2026-10-02",
+   "merged": "2026-10-20",
+   "number": 10268,
+   "org": "omegaup",
+   "repo": "omegaup/omegaup",
+   "state": "merged",
+   "title": "feat: improve empty course content state with centered Add content button",
+   "url": "https://github.com/omegaup/omegaup/pull/10268"
+  },
+  {
+   "created": "2026-10-02",
+   "merged": "2026-10-14",
+   "number": 703,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "merged",
+   "title": "feat: add template description to guide LLM form filling (#510)",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/703"
+  },
+  {
+   "created": "2026-09-27",
+   "merged": "2026-09-30",
+   "number": 693,
+   "org": "fireform-core",
+   "repo": "fireform-core/fireform-backend",
+   "state": "merged",
+   "title": "fix: use timezone-aware UTC datetime for template seeding",
+   "url": "https://github.com/fireform-core/fireform-backend/pull/693"
+  },
+  {
+   "created": "2026-06-12",
+   "merged": "2026-06-12",
+   "number": 1,
+   "org": "Aliussman",
+   "repo": "Aliussman/plaksha-wayfinder",
+   "state": "merged",
+   "title": "readme added for better clarity",
+   "url": "https://github.com/Aliussman/plaksha-wayfinder/pull/1"
+  },
+  {
+   "created": "2026-05-26",
+   "merged": "2026-05-26",
+   "number": 2,
+   "org": "Aliussman",
+   "repo": "Aliussman/pharma-market-intelligence-agent",
+   "state": "merged",
+   "title": "Refactor/project restructure",
+   "url": "https://github.com/Aliussman/pharma-market-intelligence-agent/pull/2"
+  },
+  {
+   "created": "2026-05-25",
+   "merged": "2026-05-25",
+   "number": 1,
+   "org": "Aliussman",
+   "repo": "Aliussman/pharma-market-intelligence-agent",
+   "state": "merged",
+   "title": "Refactor/project restructure",
+   "url": "https://github.com/Aliussman/pharma-market-intelligence-agent/pull/1"
+  }
+ ],
+ "series": {
+  "ros-mcp": [
+   1,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0,
+   7,
+   17,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "stats": {
+  "contrib_total": 43,
+  "last_push": "2026-11-23",
+  "primary_lang": "Python",
+  "repos": 22
+ }
+}
