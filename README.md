@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=af6a144969"><img alt="ALI USMAN — CS & AI @ Plaksha  ·  Agentic AI, RAG & Robotics MCP" src="assets/hero-light.svg?v=af6a144969" width="880"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=6edc9faa64"><img alt="ALI USMAN — CS & AI @ Plaksha  ·  Agentic AI, RAG & Robotics MCP" src="assets/hero-light.svg?v=6edc9faa64" width="880"></picture>
 
 </div>
 
@@ -18,7 +18,7 @@ Where a metric appears below, it was measured and verified in that project's cod
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=af6a144969"><img alt="Open source contributions: 17 pull requests across 5 organisations, 10 merged" src="assets/oss-light.svg?v=af6a144969" width="880"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=6edc9faa64"><img alt="Open source contributions: 17 pull requests across 5 organisations, 10 merged" src="assets/oss-light.svg?v=6edc9faa64" width="880"></picture>
 
 </div>
 
@@ -60,9 +60,9 @@ Where a metric appears below, it was measured and verified in that project's cod
 <div align="center">
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/Aliussman/pulsenote"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-pulsenote-dark.svg?v=af6a144969"><img alt="pulsenote — SOAP eval. citation-grounded clinical SOAP note generator with evaluation harness" src="assets/tile-pulsenote-light.svg?v=af6a144969" width="428"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/robotmcp/ros-mcp-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-ros-mcp-dark.svg?v=af6a144969"><img alt="ros-mcp-server — ROS 2 MCP. background topic subscriptions, async buffering & ROS 2 crash fixes" src="assets/tile-ros-mcp-light.svg?v=af6a144969" width="428"></picture></a></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/Aliussman/pharma-market-intelligence-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-pharma-dark.svg?v=af6a144969"><img alt="pharma-market-intelligence — SEC RAG. autonomous agent workflow analyzing pharma earnings & 10-K filings" src="assets/tile-pharma-light.svg?v=af6a144969" width="428"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/Aliussman/accessgrid-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-accessgrid-dark.svg?v=af6a144969"><img alt="accessgrid-ai — TWIN GIS. scenario-based urban accessibility digital twin for hospital-access loss" src="assets/tile-accessgrid-light.svg?v=af6a144969" width="428"></picture></a></td></tr>
-<tr><td width="50%" valign="top"><a href="https://plaksha-wayfinder.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-wayfinder-dark.svg?v=af6a144969"><img alt="plaksha-wayfinder — LIVE campus. QR-based campus indoor navigation platform live on Vercel" src="assets/tile-wayfinder-light.svg?v=af6a144969" width="428"></picture></a></td><td width="50%"></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/Aliussman/pulsenote"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-pulsenote-dark.svg?v=6edc9faa64"><img alt="pulsenote — SOAP eval. citation-grounded clinical SOAP note generator with evaluation harness" src="assets/tile-pulsenote-light.svg?v=6edc9faa64" width="428"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/robotmcp/ros-mcp-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-ros-mcp-dark.svg?v=6edc9faa64"><img alt="ros-mcp-server — ROS 2 MCP. background topic subscriptions, async buffering & ROS 2 crash fixes" src="assets/tile-ros-mcp-light.svg?v=6edc9faa64" width="428"></picture></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/Aliussman/pharma-market-intelligence-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-pharma-dark.svg?v=6edc9faa64"><img alt="pharma-market-intelligence — SEC RAG. autonomous agent workflow analyzing pharma earnings & 10-K filings" src="assets/tile-pharma-light.svg?v=6edc9faa64" width="428"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/Aliussman/accessgrid-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-accessgrid-dark.svg?v=6edc9faa64"><img alt="accessgrid-ai — TWIN GIS. scenario-based urban accessibility digital twin for hospital-access loss" src="assets/tile-accessgrid-light.svg?v=6edc9faa64" width="428"></picture></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://plaksha-wayfinder.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-wayfinder-dark.svg?v=6edc9faa64"><img alt="plaksha-wayfinder — LIVE campus. QR-based campus indoor navigation platform live on Vercel" src="assets/tile-wayfinder-light.svg?v=6edc9faa64" width="428"></picture></a></td><td width="50%"></td></tr>
 </table>
 
 </div>
@@ -78,7 +78,7 @@ Where a metric appears below, it was measured and verified in that project's cod
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/capability-dark.svg?v=af6a144969"><img alt="Capability matrix" src="assets/capability-light.svg?v=af6a144969" width="880"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/capability-dark.svg?v=6edc9faa64"><img alt="Capability matrix" src="assets/capability-light.svg?v=6edc9faa64" width="880"></picture>
 
 </div>
 
